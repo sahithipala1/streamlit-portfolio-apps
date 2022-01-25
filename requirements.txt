@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+yfinance
+altair
+pillow
+lxml
+seaborn
+pybase64
+matplotlib
+Watchdog
+beautifulsoup4
+requests
+shap
+rdkit-pypi
+scikit-learn
